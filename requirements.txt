@@ -11,6 +11,7 @@ exceptiongroup==1.2.1
 executing==2.0.1
 fonttools==4.51.0
 image==1.5.33
+imageio==2.35.0
 ipykernel==6.29.4
 ipython==8.24.0
 jedi==0.19.1
@@ -18,9 +19,11 @@ joblib==1.4.2
 jupyter_client==8.6.1
 jupyter_core==5.7.2
 kiwisolver==1.4.5
+lazy_loader==0.4
 matplotlib==3.8.4
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
+networkx==3.3
 numpy==1.26.4
 opencv-python==4.9.0.80
 packaging==24.0
@@ -38,12 +41,14 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzmq==26.0.3
+scikit-image==0.24.0
 scikit-learn==1.5.1
 scipy==1.13.0
 six==1.16.0
 sqlparse==0.5.0
 stack-data==0.6.3
 threadpoolctl==3.5.0
+tifffile==2024.8.10
 tornado==6.4
 traitlets==5.14.3
 typing_extensions==4.11.0
